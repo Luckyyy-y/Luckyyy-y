@@ -2,9 +2,9 @@
 
 # Hi, I'm Gerardo 👋
 
-<a href="https://git.io/typing-svg">
+<picture>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Information+Systems+Student+at+UH;Exploring+Cloud+Infrastructure+and+Cybersecurity;Learning+AWS%2C+Networking%2C+and+Secure+Systems" alt="Typing introduction" />
-</a>
+</picture>
 
 <a href="https://www.linkedin.com/in/gerardo-vera-0b2a74212">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
