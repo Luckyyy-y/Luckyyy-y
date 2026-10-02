@@ -16,6 +16,7 @@
 
 - 🎓 Computer Information Systems student at the University of Houston
 - 📅 Graduating in December 2027
+- 🛡️ CompTIA Security+ certified (September 2026)
 - ☁️ Interested in cloud infrastructure, cybersecurity, networking, and secure cloud operations
 - 🔐 Studying secure application design and how security is incorporated into applications and systems
 - 🤝 President of the Houston Buddha's Light International Association Young Adult Division
@@ -53,14 +54,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gavera783&theme=tokyonight" alt="Gerardo's GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavera783&theme=tokyonight" alt="Gerardo's top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luckyyy-y&theme=tokyonight" alt="Gerardo's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luckyyy-y&theme=tokyonight" alt="Gerardo's top languages by repository" />
 </div>
 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gavera783&theme=tokyonight" alt="Gerardo's GitHub activity summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luckyyy-y&theme=tokyonight" alt="Gerardo's GitHub activity summary" />
 </div>
 
 ## 🤝 Connect With Me
@@ -69,7 +70,7 @@
   <a href="https://www.linkedin.com/in/gerardo-vera-0b2a74212">
     <img src="https://img.shields.io/badge/LinkedIn-Gerardo_Vera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Gerardo Vera on LinkedIn" />
   </a>
-  <a href="https://github.com/gavera783">
-    <img src="https://img.shields.io/badge/GitHub-gavera783-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow gavera783 on GitHub" />
+  <a href="https://github.com/Luckyyy-y">
+    <img src="https://img.shields.io/badge/GitHub-Luckyyy--y-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Luckyyy-y on GitHub" />
   </a>
 </div>
