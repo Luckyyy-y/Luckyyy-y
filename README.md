@@ -54,14 +54,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luckyyy-y&theme=tokyonight" alt="Gerardo's GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luckyyy-y&theme=tokyonight" alt="Gerardo's top languages by repository" />
+  <picture><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luckyyy-y&theme=tokyonight" alt="Gerardo's GitHub statistics" /></picture>
+  <picture><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luckyyy-y&theme=tokyonight" alt="Gerardo's top languages by repository" /></picture>
 </div>
 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luckyyy-y&theme=tokyonight" alt="Gerardo's GitHub activity summary" />
+  <picture><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luckyyy-y&theme=tokyonight" alt="Gerardo's GitHub activity summary" /></picture>
 </div>
 
 ## 🤝 Connect With Me
